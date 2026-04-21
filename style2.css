@@ -1,0 +1,30 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: white;
+  font-family:Tahoma, Verdana, sans-serif ;
+}
+p {
+  color: black;
+    padding: 5px;
+    font-family:Tahoma, Verdana, sans-serif ;
+}
+
+body {
+  text-align: center;
+  font-family:Tahoma, Verdana, sans-serif ;
+}
+img {
+  border-radius: 8px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
